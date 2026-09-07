@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-powered-api",
+      "title": "SQLite-Powered API",
+      "description": "Save and retrieve FastAPI resources with a SQLite database.",
+      "path": "assignments/sqlite-powered-api",
+      "dueDate": "2026-09-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
